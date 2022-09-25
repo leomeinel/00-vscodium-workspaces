@@ -1,70 +1,70 @@
 {
 	"folders": [
 		{
-			"path": "0_template"
+			"path": "~/src/0_template"
 		},
 		{
-			"path": "app_cli"
+			"path": "~/src/app_cli"
 		},
 		{
-			"path": "app_cli_iterators"
+			"path": "~/src/app_cli_iterators"
 		},
 		{
-			"path": "box_smart_pointer"
+			"path": "~/src/box_smart_pointer"
 		},
 		{
-			"path": "closures"
+			"path": "~/src/closures"
 		},
 		{
-			"path": "collections"
+			"path": "~/src/collections"
 		},
 		{
-			"path": "deref_trait"
+			"path": "~/src/deref_trait"
 		},
 		{
-			"path": "drop_trait"
+			"path": "~/src/drop_trait"
 		},
 		{
-			"path": "enums"
+			"path": "~/src/enums"
 		},
 		{
-			"path": "error_handling"
+			"path": "~/src/error_handling"
 		},
 		{
-			"path": "generic_types"
+			"path": "~/src/generic_types"
 		},
 		{
-			"path": "guessing_game"
+			"path": "~/src/guessing_game"
 		},
 		{
-			"path": "hello_world"
+			"path": "~/src/hello_world"
 		},
 		{
-			"path": "iterators"
+			"path": "~/src/iterators"
 		},
 		{
-			"path": "leomeinel_sample"
+			"path": "~/src/leomeinel_sample"
 		},
 		{
-			"path": "lifetimes"
+			"path": "~/src/lifetimes"
 		},
 		{
-			"path": "module_system"
+			"path": "~/src/module_system"
 		},
 		{
-			"path": "ownership"
+			"path": "~/src/ownership"
 		},
 		{
-			"path": "testing"
+			"path": "~/src/testing"
 		},
 		{
-			"path": "traits"
+			"path": "~/src/traits"
 		},
 		{
-			"path": "variables"
+			"path": "~/src/variables"
 		},
 		{
-			"path": "workspaces"
+			"path": "~/src/workspaces"
 		}
 	]
 }

@@ -1,16 +1,16 @@
 {
 	"folders": [
 		{
-			"path": "learning_rust"
+			"path": "~/src/learning_rust"
 		},
 		{
-			"path": "linux-install"
+			"path": "~/src/linux-install"
 		},
 		{
-			"path": "papermc_plugins"
+			"path": "~/src/papermc_plugins"
 		},
 		{
-			"path": "vital"
+			"path": "~/src/vital"
 		}
 	]
 }
