@@ -1,97 +1,97 @@
 {
   "folders": [
     {
-      "path": "~/src/0_template"
+      "path": "../01_template"
     },
     {
-      "path": "~/src/DropConfirm"
+      "path": "../DropConfirm"
     },
     {
-      "path": "~/src/GBooster"
+      "path": "../GBooster"
     },
     {
-      "path": "~/src/RandomSpawnTp"
+      "path": "../RandomSpawnTp"
     },
     {
-      "path": "~/src/SpecPlayer"
+      "path": "../SpecPlayer"
     },
     {
-      "path": "~/src/VitalBack"
+      "path": "../VitalBack"
     },
     {
-      "path": "~/src/VitalBroadcast"
+      "path": "../VitalBroadcast"
     },
     {
-      "path": "~/src/VitalCondense"
+      "path": "../VitalCondense"
     },
     {
-      "path": "~/src/VitalCraft"
+      "path": "../VitalCraft"
     },
     {
-      "path": "~/src/VitalEnchant"
+      "path": "../VitalEnchant"
     },
     {
-      "path": "~/src/VitalFeed"
+      "path": "../VitalFeed"
     },
     {
-      "path": "~/src/VitalFix"
+      "path": "../VitalFix"
     },
     {
-      "path": "~/src/VitalFly"
+      "path": "../VitalFly"
     },
     {
-      "path": "~/src/VitalHeal"
+      "path": "../VitalHeal"
     },
     {
-      "path": "~/src/VitalHome"
+      "path": "../VitalHome"
     },
     {
-      "path": "~/src/VitalKeepExp"
+      "path": "../VitalKeepExp"
     },
     {
-      "path": "~/src/VitalKeepInv"
+      "path": "../VitalKeepInv"
     },
     {
-      "path": "~/src/VitalMail"
+      "path": "../VitalMail"
     },
     {
-      "path": "~/src/VitalMotd"
+      "path": "../VitalMotd"
     },
     {
-      "path": "~/src/VitalPlayerTime"
+      "path": "../VitalPlayerTime"
     },
     {
-      "path": "~/src/VitalPlayerWeather"
+      "path": "../VitalPlayerWeather"
     },
     {
-      "path": "~/src/VitalRules"
+      "path": "../VitalRules"
     },
     {
-      "path": "~/src/VitalSeen"
+      "path": "../VitalSeen"
     },
     {
-      "path": "~/src/VitalSkull"
+      "path": "../VitalSkull"
     },
     {
-      "path": "~/src/VitalSpawn"
+      "path": "../VitalSpawn"
     },
     {
-      "path": "~/src/VitalSuicide"
+      "path": "../VitalSuicide"
     },
     {
-      "path": "~/src/VitalTp"
+      "path": "../VitalTp"
     },
     {
-      "path": "~/src/VitalTpa"
+      "path": "../VitalTpa"
     },
     {
-      "path": "~/src/VitalTrash"
+      "path": "../VitalTrash"
     },
     {
-      "path": "~/src/VitalWarp"
+      "path": "../VitalWarp"
     },
     {
-      "path": "~/src/VitalWelcome"
+      "path": "../VitalWelcome"
     }
   ],
 }

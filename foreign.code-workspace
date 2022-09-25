@@ -1,10 +1,10 @@
 {
 	"folders": [
 		{
-			"path": "~/src/based.cooking"
+			"path": "../based.cooking"
 		},
 		{
-			"path": "~/src/jakt"
+			"path": "../jakt"
 		}
 	]
 }

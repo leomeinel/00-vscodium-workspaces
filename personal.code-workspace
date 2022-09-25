@@ -1,175 +1,175 @@
 {
 	"folders": [
 		{
-			"path": "~/src/0_template"
+			"path": "../01_template"
 		},
 		{
-			"path": "~/src/app_cli"
+			"path": "../app_cli"
 		},
 		{
-			"path": "~/src/app_cli_iterators"
+			"path": "../app_cli_iterators"
 		},
 		{
-			"path": "~/src/box_smart_pointer"
+			"path": "../box_smart_pointer"
 		},
 		{
-			"path": "~/src/closures"
+			"path": "../closures"
 		},
 		{
-			"path": "~/src/collections"
+			"path": "../collections"
 		},
 		{
-			"path": "~/src/cryptboot"
+			"path": "../cryptboot"
 		},
 		{
-			"path": "~/src/deref_trait"
+			"path": "../deref_trait"
 		},
 		{
-			"path": "~/src/dot-files"
+			"path": "../dot-files"
 		},
 		{
-			"path": "~/src/DropConfirm"
+			"path": "../DropConfirm"
 		},
 		{
-			"path": "~/src/drop_trait"
+			"path": "../drop_trait"
 		},
 		{
-			"path": "~/src/enums"
+			"path": "../enums"
 		},
 		{
-			"path": "~/src/error_handling"
+			"path": "../error_handling"
 		},
 		{
-			"path": "~/src/GBooster"
+			"path": "../GBooster"
 		},
 		{
-			"path": "~/src/generic_types"
+			"path": "../generic_types"
 		},
 		{
-			"path": "~/src/guessing_game"
+			"path": "../guessing_game"
 		},
 		{
-			"path": "~/src/hello_world"
+			"path": "../hello_world"
 		},
 		{
-			"path": "~/src/iterators"
+			"path": "../iterators"
 		},
 		{
-			"path": "~/src/leomeinel_sample"
+			"path": "../leomeinel_sample"
 		},
 		{
-			"path": "~/src/lifetimes"
+			"path": "../lifetimes"
 		},
 		{
-			"path": "~/src/mdadm-encrypted-btrfs"
+			"path": "../mdadm-encrypted-btrfs"
 		},
 		{
-			"path": "~/src/module_system"
+			"path": "../module_system"
 		},
 		{
-			"path": "~/src/ownership"
+			"path": "../ownership"
 		},
 		{
-			"path": "~/src/RandomSpawnTp"
+			"path": "../RandomSpawnTp"
 		},
 		{
-			"path": "~/src/repo"
+			"path": "../repo"
 		},
 		{
-			"path": "~/src/SpecPlayer"
+			"path": "../SpecPlayer"
 		},
 		{
-			"path": "~/src/testing"
+			"path": "../testing"
 		},
 		{
-			"path": "~/src/traits"
+			"path": "../traits"
 		},
 		{
-			"path": "~/src/variables"
+			"path": "../variables"
 		},
 		{
-			"path": "~/src/VitalBack"
+			"path": "../VitalBack"
 		},
 		{
-			"path": "~/src/VitalBroadcast"
+			"path": "../VitalBroadcast"
 		},
 		{
-			"path": "~/src/VitalCondense"
+			"path": "../VitalCondense"
 		},
 		{
-			"path": "~/src/VitalCraft"
+			"path": "../VitalCraft"
 		},
 		{
-			"path": "~/src/VitalEnchant"
+			"path": "../VitalEnchant"
 		},
 		{
-			"path": "~/src/VitalFeed"
+			"path": "../VitalFeed"
 		},
 		{
-			"path": "~/src/VitalFix"
+			"path": "../VitalFix"
 		},
 		{
-			"path": "~/src/VitalFly"
+			"path": "../VitalFly"
 		},
 		{
-			"path": "~/src/VitalHeal"
+			"path": "../VitalHeal"
 		},
 		{
-			"path": "~/src/VitalHome"
+			"path": "../VitalHome"
 		},
 		{
-			"path": "~/src/VitalKeepExp"
+			"path": "../VitalKeepExp"
 		},
 		{
-			"path": "~/src/VitalKeepInv"
+			"path": "../VitalKeepInv"
 		},
 		{
-			"path": "~/src/VitalMail"
+			"path": "../VitalMail"
 		},
 		{
-			"path": "~/src/VitalMotd"
+			"path": "../VitalMotd"
 		},
 		{
-			"path": "~/src/VitalPlayerTime"
+			"path": "../VitalPlayerTime"
 		},
 		{
-			"path": "~/src/VitalPlayerWeather"
+			"path": "../VitalPlayerWeather"
 		},
 		{
-			"path": "~/src/VitalRules"
+			"path": "../VitalRules"
 		},
 		{
-			"path": "~/src/VitalSeen"
+			"path": "../VitalSeen"
 		},
 		{
-			"path": "~/src/VitalSkull"
+			"path": "../VitalSkull"
 		},
 		{
-			"path": "~/src/VitalSpawn"
+			"path": "../VitalSpawn"
 		},
 		{
-			"path": "~/src/VitalSuicide"
+			"path": "../VitalSuicide"
 		},
 		{
-			"path": "~/src/VitalTp"
+			"path": "../VitalTp"
 		},
 		{
-			"path": "~/src/VitalTpa"
+			"path": "../VitalTpa"
 		},
 		{
-			"path": "~/src/VitalTrash"
+			"path": "../VitalTrash"
 		},
 		{
-			"path": "~/src/VitalWarp"
+			"path": "../VitalWarp"
 		},
 		{
-			"path": "~/src/VitalWelcome"
+			"path": "../VitalWelcome"
 		},
 		{
-			"path": "~/src/wallpapers"
+			"path": "../wallpapers"
 		},
 		{
-			"path": "~/src/workspaces"
+			"path": "../workspaces"
 		}
 	]
 } 
