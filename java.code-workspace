@@ -1,0 +1,100 @@
+{
+  "folders": [
+    {
+      "path": "0_template"
+    },
+    {
+      "path": "DropConfirm"
+    },
+    {
+      "path": "GBooster"
+    },
+    {
+      "path": "RandomSpawnTp"
+    },
+    {
+      "path": "SpecPlayer"
+    },
+    {
+      "path": "VitalBack"
+    },
+    {
+      "path": "VitalBroadcast"
+    },
+    {
+      "path": "VitalCondense"
+    },
+    {
+      "path": "VitalCraft"
+    },
+    {
+      "path": "VitalEnchant"
+    },
+    {
+      "path": "VitalFeed"
+    },
+    {
+      "path": "VitalFix"
+    },
+    {
+      "path": "VitalFly"
+    },
+    {
+      "path": "VitalHeal"
+    },
+    {
+      "path": "VitalHome"
+    },
+    {
+      "path": "VitalKeepExp"
+    },
+    {
+      "path": "VitalKeepInv"
+    },
+    {
+      "path": "VitalMail"
+    },
+    {
+      "path": "VitalMotd"
+    },
+    {
+      "path": "VitalPlayerTime"
+    },
+    {
+      "path": "VitalPlayerWeather"
+    },
+    {
+      "path": "VitalRules"
+    },
+    {
+      "path": "VitalSeen"
+    },
+    {
+      "path": "VitalSkull"
+    },
+    {
+      "path": "VitalSpawn"
+    },
+    {
+      "path": "VitalSuicide"
+    },
+    {
+      "path": "VitalTp"
+    },
+    {
+      "path": "VitalTpa"
+    },
+    {
+      "path": "VitalTrash"
+    },
+    {
+      "path": "VitalWarp"
+    },
+    {
+      "path": "VitalWelcome"
+    }
+  ],
+  "settings": {
+    "java.configuration.updateBuildConfiguration": "interactive"
+  }
+}

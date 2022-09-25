@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "0_template"
+		},
+		{
+			"path": "cryptboot"
+		},
+		{
+			"path": "dot-files"
+		},
+		{
+			"path": "mdadm-encrypted-btrfs"
+		},
+		{
+			"path": "repo"
+		},
+		{
+			"path": "wallpapers"
+		}
+	]
+}
