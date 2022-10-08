@@ -1,8 +1,8 @@
 {
   "folders": [
-    { "path": "../00_vscodium-workspaces" },
-    { "path": "../01_template" },
-    { "path": "../02_debug" },
+    { "path": "../00-vscodium-workspaces" },
+    { "path": "../10-template" },
+    { "path": "../20-debug" },
     { "path": "../app_cli_iterators" },
     { "path": "../app_cli" },
     { "path": "../box_smart_pointer" },

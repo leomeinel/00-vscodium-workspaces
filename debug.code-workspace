@@ -1,8 +1,8 @@
 {
   "folders": [
-    { "path": "../00_vscodium-workspaces" },
-    { "path": "../02_debug" },
-    { "path": "../repo" }
+    { "path": "../00-vscodium-workspaces" },
+    { "path": "../20-debug" },
+    { "path": "../40-repo" }
   ],
   "settings": {}
 }

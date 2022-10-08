@@ -1,11 +1,11 @@
 {
   "folders": [
-    { "path": "../00_vscodium-workspaces" },
-    { "path": "../01_template" },
+    { "path": "../00-vscodium-workspaces" },
+    { "path": "../10-template" },
     { "path": "../cryptboot" },
     { "path": "../dot-files" },
     { "path": "../mdadm-encrypted-btrfs" },
-    { "path": "../repo" },
+    { "path": "../40-repo" },
     { "path": "../wallpapers" }
   ]
 }
