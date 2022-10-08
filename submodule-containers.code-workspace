@@ -2,7 +2,7 @@
   "folders": [
     { "path": "../learning-rust" },
     { "path": "../linux-install" },
-    { "path": "../papermc-plugins" },
-    { "path": "../papermc-plugins-vital" }
+    { "path": "../papermc-plugins-vital" },
+    { "path": "../papermc-plugins" }
   ]
 }

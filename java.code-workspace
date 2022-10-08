@@ -3,6 +3,7 @@
     { "path": "../00-vscodium-workspaces" },
     { "path": "../10-template" },
     { "path": "../20-debug" },
+    { "path": "../40-repo" },
     { "path": "../dropconfirm" },
     { "path": "../gbooster" },
     { "path": "../randomspawntp" },
