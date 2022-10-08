@@ -1,175 +1,63 @@
 {
-	"folders": [
-		{
-			"path": "../01_template"
-		},
-		{
-			"path": "../app_cli"
-		},
-		{
-			"path": "../app_cli_iterators"
-		},
-		{
-			"path": "../box_smart_pointer"
-		},
-		{
-			"path": "../closures"
-		},
-		{
-			"path": "../collections"
-		},
-		{
-			"path": "../cryptboot"
-		},
-		{
-			"path": "../deref_trait"
-		},
-		{
-			"path": "../dot-files"
-		},
-		{
-			"path": "../DropConfirm"
-		},
-		{
-			"path": "../drop_trait"
-		},
-		{
-			"path": "../enums"
-		},
-		{
-			"path": "../error_handling"
-		},
-		{
-			"path": "../GBooster"
-		},
-		{
-			"path": "../generic_types"
-		},
-		{
-			"path": "../guessing_game"
-		},
-		{
-			"path": "../hello_world"
-		},
-		{
-			"path": "../iterators"
-		},
-		{
-			"path": "../leomeinel_sample"
-		},
-		{
-			"path": "../lifetimes"
-		},
-		{
-			"path": "../mdadm-encrypted-btrfs"
-		},
-		{
-			"path": "../module_system"
-		},
-		{
-			"path": "../ownership"
-		},
-		{
-			"path": "../RandomSpawnTp"
-		},
-		{
-			"path": "../repo"
-		},
-		{
-			"path": "../SpecPlayer"
-		},
-		{
-			"path": "../testing"
-		},
-		{
-			"path": "../traits"
-		},
-		{
-			"path": "../variables"
-		},
-		{
-			"path": "../VitalBack"
-		},
-		{
-			"path": "../VitalBroadcast"
-		},
-		{
-			"path": "../VitalCondense"
-		},
-		{
-			"path": "../VitalCraft"
-		},
-		{
-			"path": "../VitalEnchant"
-		},
-		{
-			"path": "../VitalFeed"
-		},
-		{
-			"path": "../VitalFix"
-		},
-		{
-			"path": "../VitalFly"
-		},
-		{
-			"path": "../VitalHeal"
-		},
-		{
-			"path": "../VitalHome"
-		},
-		{
-			"path": "../VitalKeepExp"
-		},
-		{
-			"path": "../VitalKeepInv"
-		},
-		{
-			"path": "../VitalMail"
-		},
-		{
-			"path": "../VitalMotd"
-		},
-		{
-			"path": "../VitalPlayerTime"
-		},
-		{
-			"path": "../VitalPlayerWeather"
-		},
-		{
-			"path": "../VitalRules"
-		},
-		{
-			"path": "../VitalSeen"
-		},
-		{
-			"path": "../VitalSkull"
-		},
-		{
-			"path": "../VitalSpawn"
-		},
-		{
-			"path": "../VitalSuicide"
-		},
-		{
-			"path": "../VitalTp"
-		},
-		{
-			"path": "../VitalTpa"
-		},
-		{
-			"path": "../VitalTrash"
-		},
-		{
-			"path": "../VitalWarp"
-		},
-		{
-			"path": "../VitalWelcome"
-		},
-		{
-			"path": "../wallpapers"
-		},
-		{
-			"path": "../workspaces"
-		}
-	]
-} 
+  "folders": [
+    { "path": "../00_vscodium-workspaces" },
+    { "path": "../01_template" },
+    { "path": "../02_debug" },
+    { "path": "../app_cli_iterators" },
+    { "path": "../app_cli" },
+    { "path": "../box_smart_pointer" },
+    { "path": "../closures" },
+    { "path": "../collections" },
+    { "path": "../cryptboot" },
+    { "path": "../deref_trait" },
+    { "path": "../dot-files" },
+    { "path": "../drop_trait" },
+    { "path": "../DropConfirm" },
+    { "path": "../enums" },
+    { "path": "../error_handling" },
+    { "path": "../GBooster" },
+    { "path": "../generic_types" },
+    { "path": "../guessing_game" },
+    { "path": "../hello_world" },
+    { "path": "../iterators" },
+    { "path": "../leomeinel_sample" },
+    { "path": "../lifetimes" },
+    { "path": "../mdadm-encrypted-btrfs" },
+    { "path": "../module_system" },
+    { "path": "../ownership" },
+    { "path": "../RandomSpawnTp" },
+    { "path": "../repo" },
+    { "path": "../SpecPlayer" },
+    { "path": "../testing" },
+    { "path": "../traits" },
+    { "path": "../variables" },
+    { "path": "../VitalBack" },
+    { "path": "../VitalBroadcast" },
+    { "path": "../VitalCondense" },
+    { "path": "../VitalCraft" },
+    { "path": "../VitalEnchant" },
+    { "path": "../VitalFeed" },
+    { "path": "../VitalFix" },
+    { "path": "../VitalFly" },
+    { "path": "../VitalHeal" },
+    { "path": "../VitalHome" },
+    { "path": "../VitalKeepExp" },
+    { "path": "../VitalKeepInv" },
+    { "path": "../VitalMail" },
+    { "path": "../VitalMotd" },
+    { "path": "../VitalPlayerTime" },
+    { "path": "../VitalPlayerWeather" },
+    { "path": "../VitalRules" },
+    { "path": "../VitalSeen" },
+    { "path": "../VitalSkull" },
+    { "path": "../VitalSpawn" },
+    { "path": "../VitalSuicide" },
+    { "path": "../VitalTp" },
+    { "path": "../VitalTpa" },
+    { "path": "../VitalTrash" },
+    { "path": "../VitalWarp" },
+    { "path": "../VitalWelcome" },
+    { "path": "../wallpapers" },
+    { "path": "../workspaces" }
+  ]
+}

@@ -1,22 +1,11 @@
 {
-	"folders": [
-		{
-			"path": "../01_template"
-		},
-		{
-			"path": "../cryptboot"
-		},
-		{
-			"path": "../dot-files"
-		},
-		{
-			"path": "../mdadm-encrypted-btrfs"
-		},
-		{
-			"path": "../repo"
-		},
-		{
-			"path": "../wallpapers"
-		}
-	]
+  "folders": [
+    { "path": "../00_vscodium-workspaces" },
+    { "path": "../01_template" },
+    { "path": "../cryptboot" },
+    { "path": "../dot-files" },
+    { "path": "../mdadm-encrypted-btrfs" },
+    { "path": "../repo" },
+    { "path": "../wallpapers" }
+  ]
 }

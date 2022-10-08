@@ -1,70 +1,28 @@
 {
-	"folders": [
-		{
-			"path": "../01_template"
-		},
-		{
-			"path": "../app_cli"
-		},
-		{
-			"path": "../app_cli_iterators"
-		},
-		{
-			"path": "../box_smart_pointer"
-		},
-		{
-			"path": "../closures"
-		},
-		{
-			"path": "../collections"
-		},
-		{
-			"path": "../deref_trait"
-		},
-		{
-			"path": "../drop_trait"
-		},
-		{
-			"path": "../enums"
-		},
-		{
-			"path": "../error_handling"
-		},
-		{
-			"path": "../generic_types"
-		},
-		{
-			"path": "../guessing_game"
-		},
-		{
-			"path": "../hello_world"
-		},
-		{
-			"path": "../iterators"
-		},
-		{
-			"path": "../leomeinel_sample"
-		},
-		{
-			"path": "../lifetimes"
-		},
-		{
-			"path": "../module_system"
-		},
-		{
-			"path": "../ownership"
-		},
-		{
-			"path": "../testing"
-		},
-		{
-			"path": "../traits"
-		},
-		{
-			"path": "../variables"
-		},
-		{
-			"path": "../workspaces"
-		}
-	]
+  "folders": [
+    { "path": "../00_vscodium-workspaces" },
+    { "path": "../01_template" },
+    { "path": "../02_debug" },
+    { "path": "../app_cli_iterators" },
+    { "path": "../app_cli" },
+    { "path": "../box_smart_pointer" },
+    { "path": "../closures" },
+    { "path": "../collections" },
+    { "path": "../deref_trait" },
+    { "path": "../drop_trait" },
+    { "path": "../enums" },
+    { "path": "../error_handling" },
+    { "path": "../generic_types" },
+    { "path": "../guessing_game" },
+    { "path": "../hello_world" },
+    { "path": "../iterators" },
+    { "path": "../leomeinel_sample" },
+    { "path": "../lifetimes" },
+    { "path": "../module_system" },
+    { "path": "../ownership" },
+    { "path": "../testing" },
+    { "path": "../traits" },
+    { "path": "../variables" },
+    { "path": "../workspaces" }
+  ]
 }
