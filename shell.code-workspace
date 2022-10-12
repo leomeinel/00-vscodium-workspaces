@@ -4,9 +4,9 @@
     { "path": "../10-template" },
     { "path": "../20-debug" },
     { "path": "../40-repo" },
+    { "path": "../arch-install" },
     { "path": "../cryptboot" },
     { "path": "../dot-files" },
-    { "path": "../mdadm-encrypted-btrfs" },
     { "path": "../wallpapers" }
   ]
 }
