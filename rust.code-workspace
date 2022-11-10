@@ -6,6 +6,7 @@
     { "path": "../40-repo" },
     { "path": "../app_cli_iterators" },
     { "path": "../app_cli" },
+    { "path": "../bevy_game" },
     { "path": "../box_smart_pointer" },
     { "path": "../closures" },
     { "path": "../collections" },
