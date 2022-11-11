@@ -7,6 +7,7 @@
     { "path": "../app_cli_iterators" },
     { "path": "../app_cli" },
     { "path": "../bevy_game" },
+    { "path": "../bevy_tower_defense" },
     { "path": "../box_smart_pointer" },
     { "path": "../closures" },
     { "path": "../collections" },
