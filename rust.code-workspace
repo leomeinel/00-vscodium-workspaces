@@ -25,6 +25,7 @@
     { "path": "../ownership" },
     { "path": "../testing" },
     { "path": "../traits" },
+    { "path": "../usbguard_notify" },
     { "path": "../variables" },
     { "path": "../workspaces" }
   ]

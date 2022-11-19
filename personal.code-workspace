@@ -32,6 +32,7 @@
     { "path": "../specplayer" },
     { "path": "../testing" },
     { "path": "../traits" },
+    { "path": "../usbguard_notify" },
     { "path": "../variables" },
     { "path": "../vitalback" },
     { "path": "../vitalbroadcast" },
