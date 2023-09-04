@@ -7,6 +7,6 @@
     { "path": "../arch-install" },
     { "path": "../cryptboot" },
     { "path": "../dot-files" },
-    { "path": "../wallpapers" },
+    { "path": "../wallpapers" }
   ]
 }
