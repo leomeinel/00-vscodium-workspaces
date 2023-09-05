@@ -4,7 +4,15 @@
     { "path": "../10-template" },
     { "path": "../20-debug" },
     { "path": "../40-repo" },
-    { "path": "../../Documents/Resources/university/courses/" },
+    {
+      "path": "../../Documents/Resources/university/courses/bsc-computer-science/discrete-mathematics"
+    },
+    {
+      "path": "../../Documents/Resources/university/courses/bsc-computer-science/introduction-to-computer-science"
+    },
+    {
+      "path": "../../Documents/Resources/university/courses/bsc-computer-science/procedural-programming"
+    },
     { "path": "../bcs1110-java-craft" }
   ]
 }
