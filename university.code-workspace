@@ -15,9 +15,10 @@
     },
     { "path": "../bcs1110-java-craft" },
     { "path": "../bcs1120-assignment0" },
-    { "path": "../bcs1130-lecture2" }
-  ],
-  "settings": {
-    "java.configuration.updateBuildConfiguration": "interactive"
-  }
+    { "path": "../bcs1120-assignment1" },
+    { "path": "../bcs1120-lab1-game1" },
+    { "path": "../bcs1120-lecture2" },
+    { "path": "../bcs1120-lecture3" },
+    { "path": "../bcs1120-quiz2" }
+  ]
 }
