@@ -13,11 +13,11 @@
     {
       "path": "../../Documents/Resources/university/courses/bsc-computer-science/procedural-programming"
     },
-    { "path": "../bcs1110-java-craft" },
     { "path": "../bcs1120-assignment0" },
     { "path": "../bcs1120-assignment1" },
     { "path": "../bcs1120-lab1-game1" },
     { "path": "../bcs1120-lecture2" },
-    { "path": "../bcs1120-quiz2" }
+    { "path": "../bcs1120-quiz2" },
+    { "path": "../javacraft" }
   ]
 }
