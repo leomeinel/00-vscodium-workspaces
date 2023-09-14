@@ -15,7 +15,13 @@
     },
     { "path": "../bcs1120-assignment0" },
     { "path": "../bcs1120-assignment1" },
+    { "path": "../bcs1120-assignment2" },
+    { "path": "../bcs1120-assignment3" },
+    { "path": "../bcs1120-assignment4" },
+    { "path": "../bcs1120-assignment5" },
+    { "path": "../bcs1120-assignment6" },
     { "path": "../bcs1120-lab1-game1" },
+    { "path": "../bcs1120-lab2-game2" },
     { "path": "../bcs1120-lecture2" },
     { "path": "../bcs1120-quiz2" },
     { "path": "../javacraft" }
