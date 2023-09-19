@@ -13,6 +13,7 @@
     {
       "path": "../../Documents/Resources/university/courses/bsc-computer-science/procedural-programming"
     },
+    { "path": "../bcs1110-dfa-simulator" },
     { "path": "../bcs1120-assignment0" },
     { "path": "../bcs1120-assignment1" },
     { "path": "../bcs1120-assignment2" },
