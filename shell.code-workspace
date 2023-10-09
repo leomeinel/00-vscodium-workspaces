@@ -7,6 +7,7 @@
     { "path": "../arch-install" },
     { "path": "../cryptboot" },
     { "path": "../dot-files" },
+    { "path": "../dot-files-debian" },
     { "path": "../wallpapers" }
   ]
 }
