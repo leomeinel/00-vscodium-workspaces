@@ -25,7 +25,9 @@
     { "path": "../bcs1120-lab2-game2" },
     { "path": "../bcs1120-lecture2" },
     { "path": "../bcs1120-quiz2" },
+    { "path": "../bcs1220-lab1" },
     { "path": "../javacraft" },
-    { "path": "../project-1-1" }
+    { "path": "../project-1-1" },
+    { "path": "../test/project-1-1" }
   ]
 }
